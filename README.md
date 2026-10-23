@@ -24,8 +24,7 @@ npm install
 4. Instale os navegadores do Playwright:
 npx playwright install
 
-Execução dos testes
-
+**Execução dos testes**
 Para executar os testes automatizados no Windows, utilize o seguinte comando no terminal do VSCode:
 
 npx.cmd playwright test
