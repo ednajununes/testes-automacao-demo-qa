@@ -1,5 +1,4 @@
-**Testes Automatizados com Playwright
-**
+**Testes Automatizados com Playwright**
 
 Tecnologias utilizadas:
 
@@ -17,9 +16,7 @@ Node.js e npm
 
 1. Clone o repositório
 
-2. Acesse a pasta do projeto:
-
-cd front-testes
+2. Acesse a pasta do projeto
 
 3. Instale as dependências:
 npm install
