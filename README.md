@@ -3,7 +3,9 @@ Testes Automatizados com Playwright
 Tecnologias utilizadas
 
 Node.js
+
 Playwright
+
 JavaScript
 
 Pré-requisitos
@@ -11,7 +13,6 @@ Pré-requisitos
 Antes de executar os testes, é necessário ter instalado:
 
 Node.js e npm
-Git
 
 Instalação
 
