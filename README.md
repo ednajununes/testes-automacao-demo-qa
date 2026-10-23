@@ -1,4 +1,5 @@
 Testes Automatizados com Playwright
+
 Tecnologias utilizadas
 
 Node.js
